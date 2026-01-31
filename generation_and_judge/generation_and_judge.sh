@@ -1,4 +1,4 @@
-python /export/home2/jianxiong/contrast/mot/new/generation_and_judge.py \
+python generation_and_judge.py \
     --model_name deepseek-ai/DeepSeek-R1-Distill-Llama-8B \
     --dataset_name truthful_qa \
     --gen_mode greedy \
